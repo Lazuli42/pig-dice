@@ -1,0 +1,11 @@
+.gameArea {
+  display: none;
+}
+
+.lastNumber {
+  /*border-style: solid;*/
+}
+
+#roll2 {
+  display: none;
+}
